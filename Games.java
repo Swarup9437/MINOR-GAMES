@@ -1,4 +1,4 @@
-// Pen Paper Scissor G
+// Pen Paper Scissor Game
 import java.util.*;
 public class Games {
     public static void main(String[] args) {
