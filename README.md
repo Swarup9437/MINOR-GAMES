@@ -1,0 +1,2 @@
+# MINOR-GAMES
+Only games
