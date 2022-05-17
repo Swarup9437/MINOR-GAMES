@@ -7,6 +7,7 @@ public class Games {
         System.out.println("1. Rock");
         System.out.println("2. Paper");
         System.out.println("3. Scissor");
+        System.out.println("4. Do it");
         System.out.println("(Choose either 1 or 2 or 3): ");
         String[] arr = {"Rock", "Paper", "Scissor" };
         int num = sc.nextInt();
